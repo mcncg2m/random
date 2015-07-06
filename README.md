@@ -1,0 +1,1 @@
+﻿Programa que informa si un numero aleatorio generado es mayor o menor de 0.5
